@@ -1,0 +1,8 @@
+{
+  "name": "Growth Partner OS DUVI",
+  "description": "A high-ticket business success suite inspired by Carlos Higuera, featuring strategy tools, AI consulting, and resource management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
